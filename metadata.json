@@ -1,0 +1,5 @@
+{
+  "name": "QuickServe POS v1",
+  "description": "A production-ready, offline-first Point of Sale system for small restaurants and cafes.",
+  "requestFramePermissions": []
+}
